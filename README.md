@@ -1,25 +1,51 @@
-<h1 align="center">Hi 👋, I'm Edric Nduwimana</h1>
-<h3 align="center">I am learning how to code for fun</h3>
+<div align="center">
+  <img height="" src="https://media.tenor.com/SHu_Ynq3EGEAAAAC/welcome.gif"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edric-nduwimana&label=Profile%20views&color=0e75b6&style=flat" alt="edric-nduwimana" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edric-nduwimana" alt="edric-nduwimana" /></a> </p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-- 🔭 I’m currently working on **KKCF Cohort 8**
+###
 
-- 🌱 I’m currently learning **SQL**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Edric-Nduwimana.Edric-Nduwimana&"  />
+</div>
 
-- 📫 How to reach me **nduwimanaedric@gmail.com**
+###
 
-- ⚡ Fun fact **I'm pretty cool**
+<h1 align="center">Hey there 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+<p align="left">I'm Edric Nduwimana from Atlanta<br><br>- 🔭 I’m working as a broke college student <br>- 📚 I'm currently learning HTML, CSS, and Javascript<br>- ⚡ In my free time I play classical music! 🎻</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edric-nduwimana&show_icons=true&locale=en&layout=compact" alt="edric-nduwimana" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edric-nduwimana&show_icons=true&locale=en" alt="edric-nduwimana" /></p>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Edric-Nduwimana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
